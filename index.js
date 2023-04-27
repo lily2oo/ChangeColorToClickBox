@@ -6,6 +6,4 @@ picker.addEventListener('input',()=>{
     let inputValue = picker.value
     document.body.style.backgroundColor = inputValue
     colorcode.innerText = picker.value
-    text.style.color = "#ffffff"
-    colorcode.style.color = "#ffffff"
 })
