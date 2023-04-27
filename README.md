@@ -1,2 +1,2 @@
 # ChangeColorToColorBox
-try colorpicker and emoji cursor and @media
+tried colorpicker and emoji cursor and @media
