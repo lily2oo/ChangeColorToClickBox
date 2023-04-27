@@ -12,8 +12,8 @@ body{
 }
 
 #title, #colorcode{
-    color: black;
     mix-blend-mode: exclusion;
+    color: black;
 }
 
 #title{
@@ -36,5 +36,9 @@ font-size: 3rem;
 @media (width <= 500px) {
     html{
         font-size: calc(62.5% / 1.5);
+    }
+    #colorpicker{
+        width: 200px;
+        height: 200px;
     }
 }
